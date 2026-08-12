@@ -1,5 +1,7 @@
 # Electric Vehicle Data Analysis and Price Prediction
 
+> **Scope** · Self-study data science project — published as-is.
+
 ## Project Overview
 This project analyzes electric vehicle (EV) registration data to explore trends, characteristics, and predict future pricing and range capabilities. Using machine learning techniques including neural networks and clustering algorithms, the project provides insights into the evolving EV market landscape.
 
